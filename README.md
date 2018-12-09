@@ -2,4 +2,4 @@
 
 ## 效果
 
-![gif_20181209_184409](J:\ManageLineChart\gif_20181209_184409.gif)
+![](https://github.com/ZhongXiaoHong/ManageLineChart/blob/master/gif_20181209_184409.gif)
